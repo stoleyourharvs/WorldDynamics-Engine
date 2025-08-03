@@ -1,0 +1,5 @@
+name: WorldDynamics-Engine
+version: '1.0-ARGON'
+main: com.thatguycy.wde.WDEPlugin
+api-version: '1.21'
+load: STARTUP
